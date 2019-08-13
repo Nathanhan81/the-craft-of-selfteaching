@@ -78,3 +78,6 @@ step 8、执行命令 `git push ` 把本地仓库向github仓库（你fork到自
 
 现在你已经解决了fork的仓库和原仓库版本不一致的问题。可以放心向 xiaolai 发起 pull request 了。如果以上操作你花了不少时间，而 xiaolai 的仓库又恰好更新了。很好，一次新的练习机会来了……
 
+Q1: 如何在windows环境下，在Jupyter LAB的terminal里更改相关内容？
+Q2：如何在windows环境下，在Jupyter LAB的terminal里用命令行向study branch做更新？
+Q3：如何在windows环境下，在Jupyter LAB里打开Git的Study Branch？
