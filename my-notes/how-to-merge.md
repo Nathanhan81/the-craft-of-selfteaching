@@ -81,3 +81,4 @@ step 8、执行命令 `git push ` 把本地仓库向github仓库（你fork到自
 Q1: 如何在windows环境下，在Jupyter LAB的terminal里更改相关内容？
 Q2：如何在windows环境下，在Jupyter LAB的terminal里用命令行向study branch做更新？
 Q3：如何在windows环境下，在Jupyter LAB里打开Git的Study Branch？
+Q4: how to create and run bash scripts in windows10? https://www.cnblogs.com/azhqiang/p/8795730.html
